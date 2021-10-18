@@ -1,0 +1,5 @@
+Name: Paste Windows Path
+Description: Paste Windows path in native R format.
+Binding: paste_winpath
+Interactive: false
+
